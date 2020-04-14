@@ -1,0 +1,1 @@
+Os arquivos dispostos neste projeto visa o aprendizado apenas. Nesse projeto, há uma pasta que contém uma série de listas exercícios e o objetivo é resolvê-las, na medida do possível, em diversas linguagens, entre elas, C, C++, Java.
